@@ -384,4 +384,10 @@ body footer .my-profile .my-profile-img-wrapper {
 body footer .my-profile .my-profile-img-wrapper img {
   height: 45px;
 }
+
+body {
+  max-width: 500px;
+  margin: 0 auto;
+  border: 1px solid #e0e0e0;
+}
 /*# sourceMappingURL=main.css.map */
